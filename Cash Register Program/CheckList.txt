@@ -1,28 +1,28 @@
-search algorithm									-	
+search algorithm									X	
 sort algorithm										-
 pointer variables									-
-pointer arithmetic									-
-dynamic memory allocation							-
-dynamic memory release								-
+pointer arithmetic									X
+dynamic memory allocation								-
+dynamic memory release									-
 dynamic arrays										-  (I mean dyanmic vector so 50/50 :/)
 class separation									-
-classes with private and public members				-
-clases with constructor and destructors				-
+classes with private and public members							-
+clases with constructor and destructors							-
 objects of classes									-
-static class members								-
-friend class members								-
-classes with copy constructors						-
-classes with operator overloading					-
+static class members									-
+friend class members									-
+classes with copy constructors								-
+classes with operator overloading							-
 object aggregation									-	(I think?)
 class inheritance									-
-classes with protected members						-
-classes with virutal methods						-
+classes with protected members								-
+classes with virtual methods								X
 polymorphism										-
 abstract classes									x	(program refuses to work if I use this)
-exception signlaing with throw						-
-exception handling with try / catch					-
-generic programming with function templates			-
-generic programming with class templates			-
+exception signlaing with throw								-
+exception handling with try / catch							-
+generic programming with function templates						X
+generic programming with class templates						X
 
 =================================================================
 "-" means completed || present somewhere in program
