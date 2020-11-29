@@ -1,5 +1,5 @@
-# CPP-Programming
-## C/C++ Programs and Data Structure Implementations
+# C++-Programming
+## C++ Programs and Data Structure Implementations
 
 Author: Spencer C. DeMera\
  Author's email: Spencer.demera@csu.fullerton.edu\
