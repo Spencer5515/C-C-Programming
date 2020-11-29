@@ -1,4 +1,4 @@
-# C++-Programming
+# CPP-Programming
 ## C++ Programs and Data Structure Implementations
 
 Author: Spencer C. DeMera\
