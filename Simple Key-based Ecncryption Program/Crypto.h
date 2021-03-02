@@ -13,7 +13,7 @@ Due Date: 3/3/2021
 using namespace std;
 
 class Crypto {
-	public:
+	private:
 		// initialized / required variables
 		char InputDataBuffer[129]; // you process 16 characters at a time
 		char CryptoKey[9]; // Using a user inputted 8-bit key
