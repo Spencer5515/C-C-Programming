@@ -1,10 +1,3 @@
-/*
-Class: CPSC-362-09
-Homework: 1
-Name: Spencer DeMera
-Due Date: 3/3/2021
-*/
-
 #include "Crypto.h"
 #include <limits>
 #include <iostream>
