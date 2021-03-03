@@ -1,10 +1,3 @@
-/*
-Class: CPSC-362-09
-Homework: 1
-Name: Spencer DeMera
-Due Date: 3/3/2021
-*/
-
 #ifndef CRYPTO_H
 #define CRYPTO_H
 
@@ -24,7 +17,7 @@ class Crypto {
 		// string variables
 		string userString;
 		string userKey;
-
+	public:
 		// methods
 		void inputData();
 		void Encrypt();
